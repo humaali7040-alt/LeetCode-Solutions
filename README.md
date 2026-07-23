@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
