@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
