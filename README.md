@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/humaali7040-alt/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
